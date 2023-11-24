@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Manages "manage_my_process"
+# Bash script that manages "manage_my_process"
 
 if [ $# -gt 0 ]
 then
